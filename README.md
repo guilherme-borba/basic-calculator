@@ -1,2 +1,2 @@
-# basic-calculator
-Test calculator only sum.
+# Basic calculator.
+Simple calculator, using object orientation, repetition and sum.
